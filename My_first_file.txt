@@ -1,7 +1,1 @@
-My first file
-First change
-<<<<<<< HEAD
-Second change
-=======
-Second  change 2
->>>>>>> da04e250967b7998b24fbd4f17d63578b477f3e2
+Hello World
