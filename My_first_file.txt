@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello git
+=======
+My first file
+First change
+Second  change
+>>>>>>> 1fecf5b38ef8217a8d9dfc7730240d06c67f3f70
